@@ -5,7 +5,7 @@
 #### By __**Roni Mitra**__
 
 ## Description
-_This is my first webpage, describing the things I would learn at Epicodus. The purpose of this exercise is to pactice HTML._
+_This is my first webpage, describing the things I would learn at Epicodus. The purpose of this exercise is to pactice HTML and write READMEs in Markdown._
 
 ## Setup/Installation Requirements
 *  _Clone this repository._
@@ -18,3 +18,5 @@ _This is my first webpage, describing the things I would learn at Epicodus. The 
 
 ### License
 Copyright (c) 2017 **_Roni Mitra_**
+
+This software is licensed under the MIT license.
