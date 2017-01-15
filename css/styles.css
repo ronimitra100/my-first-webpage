@@ -5,21 +5,30 @@ h1 {
 
 
 h2 {
-  color: blue;
-  font-style: italic;
-  font-weight: 800;
+  color: brown;
+  font-style: normal;
+  font-weight: 400;
 
 }
 
 h3 {
-  color: green;
+  color: blue;
+  font-style: italic;
 }
 
 p {
   font-family: sans-serif;
+  font-size: 15px;
 }
 
 ul {
-  font-size: 20px;
+  font-size: 15px;
   line-height: 30px;
+  font-style: italic;
+}
+
+ol {
+  font-size: 15px;
+  line-height: 30px;
+  font-style: italic;
 }
